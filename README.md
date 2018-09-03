@@ -1,4 +1,4 @@
-# Projecto de aprendisaje sobre flex-Box
+# Projecto de aprendisaje sobre Flex-Box
 -------------------------------------------------
 ## Version. 1.0
 -------------------------------------------------
